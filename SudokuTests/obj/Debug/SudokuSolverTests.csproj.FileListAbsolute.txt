@@ -1,0 +1,17 @@
+C:\Users\erez\source\repos\Sudoku\SudokuTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\erez\source\repos\Sudoku\SudokuTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\erez\source\repos\Sudoku\SudokuTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\erez\source\repos\Sudoku\SudokuTests\bin\Debug\SudokuTests.dll
+C:\Users\erez\source\repos\Sudoku\SudokuTests\bin\Debug\SudokuTests.pdb
+C:\Users\erez\source\repos\Sudoku\SudokuTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\erez\source\repos\Sudoku\SudokuTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\erez\source\repos\Sudoku\SudokuTests\bin\Debug\Sudoku.exe
+C:\Users\erez\source\repos\Sudoku\SudokuTests\bin\Debug\Sudoku.pdb
+C:\Users\erez\source\repos\Sudoku\SudokuTests\bin\Debug\Sudoku.exe.config
+C:\Users\erez\source\repos\Sudoku\SudokuTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\erez\source\repos\Sudoku\SudokuTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\erez\source\repos\Sudoku\SudokuTests\obj\Debug\SudokuSolverTests.csprojAssemblyReference.cache
+C:\Users\erez\source\repos\Sudoku\SudokuTests\obj\Debug\SudokuSolverTests.csproj.CoreCompileInputs.cache
+C:\Users\erez\source\repos\Sudoku\SudokuTests\obj\Debug\SudokuSolverTests.csproj.CopyComplete
+C:\Users\erez\source\repos\Sudoku\SudokuTests\obj\Debug\SudokuTests.dll
+C:\Users\erez\source\repos\Sudoku\SudokuTests\obj\Debug\SudokuTests.pdb
